@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T09:48:10.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" version="21.3.2" etag="i-JgUBD183x7KZcMfGbU" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-17T09:56:26.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="nzcVBR3lo-DH_5O0p9he" version="21.3.2" type="github">
   <diagram name="Page-1" id="jx9JWOi1ShGZBdXcdiNp">
-    <mxGraphModel>
+    <mxGraphModel dx="557" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rXP4-r2rK4ObflbEY1pi-1" value="Persona" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="98" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rXP4-r2rK4ObflbEY1pi-2" value="Social persona" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="188" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rXP4-r2rK4ObflbEY1pi-5" value="Demographics" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="188" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rXP4-r2rK4ObflbEY1pi-6" value="Individual persona" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="188" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rXP4-r2rK4ObflbEY1pi-7" value="Social&lt;br&gt;stratification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="25" y="233" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXP4-r2rK4ObflbEY1pi-8" value="Social&lt;br&gt;relation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="243" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXP4-r2rK4ObflbEY1pi-9" value="Gender" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="238" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rXP4-r2rK4ObflbEY1pi-10" value="Age" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="260" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rXP4-r2rK4ObflbEY1pi-11" value="Ethnicity" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="308" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rXP4-r2rK4ObflbEY1pi-12" value="Occupation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="358" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rXP4-r2rK4ObflbEY1pi-13" value="Birth palce" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="318" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rXP4-r2rK4ObflbEY1pi-14" value="Nationality" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="358" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rXP4-r2rK4ObflbEY1pi-15" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" y="408" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rXP4-r2rK4ObflbEY1pi-16" value="Preference" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="260" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rXP4-r2rK4ObflbEY1pi-17" value="Experiences" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="328" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rXP4-r2rK4ObflbEY1pi-18" value="Habit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="585" y="378" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rXP4-r2rK4ObflbEY1pi-19" value="Competence" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="555" y="428" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rXP4-r2rK4ObflbEY1pi-20" value="Personality" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="478" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rXP4-r2rK4ObflbEY1pi-21" value="Moral&lt;br&gt;orientation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="513" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
